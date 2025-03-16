@@ -1,6 +1,6 @@
 {
     "name": "WeightBase",
-    "version_number": "1.1.6",
+    "version_number": "1.1.7",
     "website_url": "https://github.com/MadBuffoon/WeightBase/",
     "description": "Removes stack size and allows you to change the Weight. Also lets you change the inventory size of the ships. Also Change how you see large stack size and weight numbers to a smiple look like 1.0k applies to all Inventories",
     "dependencies": [
